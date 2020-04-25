@@ -12,7 +12,7 @@ namespace BackupCafeApp.Web.Controllers
         // private AppDbContext db = new AppDbContext();
         private UserRepository UserRepo = new UserRepository();
         private TableRepository TableRepo = new TableRepository();
-
+        
         // GET: Employee
         public ActionResult Index()
         {
