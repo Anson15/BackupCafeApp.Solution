@@ -1,0 +1,17 @@
+C:\Users\anson\source\repos\BackupCafeApp.Solution\CafeApp.Persistence\bin\Debug\CafeApp.Persistence.dll.config
+C:\Users\anson\source\repos\BackupCafeApp.Solution\CafeApp.Persistence\bin\Debug\CafeApp.Persistence.dll
+C:\Users\anson\source\repos\BackupCafeApp.Solution\CafeApp.Persistence\bin\Debug\CafeApp.Persistence.pdb
+C:\Users\anson\source\repos\BackupCafeApp.Solution\CafeApp.Persistence\bin\Debug\CafeApp.DomainEntityModel.dll
+C:\Users\anson\source\repos\BackupCafeApp.Solution\CafeApp.Persistence\bin\Debug\EntityFramework.dll
+C:\Users\anson\source\repos\BackupCafeApp.Solution\CafeApp.Persistence\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\anson\source\repos\BackupCafeApp.Solution\CafeApp.Persistence\bin\Debug\CafeApp.DomainEntityModel.pdb
+C:\Users\anson\source\repos\BackupCafeApp.Solution\CafeApp.Persistence\bin\Debug\EntityFramework.xml
+C:\Users\anson\source\repos\BackupCafeApp.Solution\CafeApp.Persistence\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\anson\source\repos\BackupCafeApp.Solution\CafeApp.Persistence\obj\Debug\CafeApp.Persistence.csprojAssemblyReference.cache
+C:\Users\anson\source\repos\BackupCafeApp.Solution\CafeApp.Persistence\obj\Debug\CafeApp.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\anson\source\repos\BackupCafeApp.Solution\CafeApp.Persistence\obj\Debug\CafeApp.Persistence.csproj.CopyComplete
+C:\Users\anson\source\repos\BackupCafeApp.Solution\CafeApp.Persistence\obj\Debug\CafeApp.Persistence.dll
+C:\Users\anson\source\repos\BackupCafeApp.Solution\CafeApp.Persistence\obj\Debug\CafeApp.Persistence.pdb
+C:\Users\anson\source\repos\BackupCafeApp.Solution\CafeApp.Persistence\obj\Debug\CafeApp.Persistence.Migrations.InitialCreate.resources
+C:\Users\anson\source\repos\BackupCafeApp.Solution\CafeApp.Persistence\obj\Debug\CafeApp.Persistence.csproj.GenerateResource.cache
+C:\Users\anson\source\repos\BackupCafeApp.Solution\CafeApp.Persistence\obj\Debug\CafeApp.Persistence.Migrations.Initial.resources

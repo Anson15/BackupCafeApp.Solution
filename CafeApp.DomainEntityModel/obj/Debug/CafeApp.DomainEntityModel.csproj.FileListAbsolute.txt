@@ -1,0 +1,6 @@
+C:\Users\anson\source\repos\BackupCafeApp.Solution\CafeApp.DomainEntityModel\bin\Debug\CafeApp.DomainEntityModel.dll
+C:\Users\anson\source\repos\BackupCafeApp.Solution\CafeApp.DomainEntityModel\bin\Debug\CafeApp.DomainEntityModel.pdb
+C:\Users\anson\source\repos\BackupCafeApp.Solution\CafeApp.DomainEntityModel\obj\Debug\CafeApp.DomainEntityModel.csprojAssemblyReference.cache
+C:\Users\anson\source\repos\BackupCafeApp.Solution\CafeApp.DomainEntityModel\obj\Debug\CafeApp.DomainEntityModel.csproj.CoreCompileInputs.cache
+C:\Users\anson\source\repos\BackupCafeApp.Solution\CafeApp.DomainEntityModel\obj\Debug\CafeApp.DomainEntityModel.dll
+C:\Users\anson\source\repos\BackupCafeApp.Solution\CafeApp.DomainEntityModel\obj\Debug\CafeApp.DomainEntityModel.pdb
